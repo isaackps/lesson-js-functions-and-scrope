@@ -13,7 +13,7 @@ var MyLengths = ["avd", "sdff", "asdflj"];
 
 console.log(lengths(MyLengths));
 
-
+//
 
 
 
